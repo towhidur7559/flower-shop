@@ -13,14 +13,14 @@ p{
     font-family: 'Poppins', sans-serif;
 }
 
-/* common css */
+/*css for all*/
 .primary-btn{
     border: none;
     background-color: #E55473;
     color: #FFFFFF;
     padding: 16px 37px;
-    border-radius: 5px;
-    font-size: 18px;
+    border-radius: 6px;
+    font-size: 17px;
     cursor: pointer;
 }
 .primary-btn:hover{
